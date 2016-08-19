@@ -1,6 +1,6 @@
 # youtube-downloader
 
-Version 1.1
+Version 1.1(Latest)
 
 A easy to use python script that downloads youtube videos in whatever format they were uploaded in. Just type in what you want to search and it will download the first video link into the folder which the script is in.
 
