@@ -22,9 +22,8 @@ VLC media player(or any media player that can play any type of video file)
 Python 2.7 + Libraries
 
 
-Python Libs(required):
+Python Libs(extra installation required):
 
-urllib2
 youtube-dl
 beautiful soup 4
 
