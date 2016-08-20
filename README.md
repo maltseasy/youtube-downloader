@@ -1,6 +1,6 @@
 # youtube-downloader
 
-Version 1.1(Latest)
+Version 1.2(Latest)
 
 A easy to use python script that downloads youtube videos in whatever format they were uploaded in. Just type in what you want to search and it will download the first video link into the folder which the script is in.
 
@@ -8,7 +8,7 @@ This is my first project on github and I'm not thaaat experienced with python(an
 
 You can send suggestions to rootorg1@gmail.com
 
-How to use:
+#How to use:
 
 1. Make sure you have all the requirements
 2. Download .py file(latest version)
@@ -17,17 +17,17 @@ How to use:
 5. Press enter and after a short while, your video will be downloaded into the folder with the python file.
 6. The file type may be weird(mkd,webm) and W.M.P. cant play most of them so I recommend VLC media player.
 
-Requirements:
+#Requirements:
 VLC media player(or any media player that can play any type of video file)
 Python 2.7 + Libraries
 
 
-Python Libs(extra installation required):
+#Python Libs(extra installation required):
 
 youtube-dl
 beautiful soup 4
 
-How to install beautiful soup 4:
+#How to install beautiful soup 4:
 
 Windows:
 Open cmd.exe
@@ -39,7 +39,7 @@ Debian based linux:
 Available as python-beautifulsoup4 package in debian repositories
 Just run "sudo apt-get install python-beautifulsoup4" in terminal
 
-How to install youtube-dl:
+#How to install youtube-dl:
 
 Windows:
 Open cmd.exe
@@ -52,7 +52,7 @@ run "sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/y
 
 run "sudo chmod a+rx /usr/local/bin/youtube-dl"
 
-Changes planned:
+#Changes planned:
 
 Priority 1:Options for first, second or third link.
 Priority 2:Impliment simple GUI
