@@ -19,9 +19,12 @@ You can send suggestions to rootorg1@gmail.com
 6. The file type may be weird(mkd,webm) and W.M.P. cant play most of them so I recommend VLC media player.
 
 ##Requirements:
-1. VLC media player(or any media player that can play any type of video file) ![alt tag](http://getpcsoft.wikisend.com/img_howto/0/309/vlc%20media%20player.jpg)
+1. VLC media player(or any media player that can play any type of video file)
+
+![alt tag](http://getpcsoft.wikisend.com/img_howto/0/309/vlc%20media%20player.jpg)
 2. Python 2.7 + Libraries
 
+![alt tag](https://s3.amazonaws.com/codementor_content/Python+Martijn+Office+Hour/Python_logo_and_wordmark.png)
 
 ##Python Libs(extra installation required):
 1. youtube-dl
@@ -31,10 +34,12 @@ You can send suggestions to rootorg1@gmail.com
 
 ###Windows:
 Open cmd.exe
-Go to C:/Python27/Scripts
-run "pip install beautifulsoup4"
 
-Debian based linux:
+Go to C:/Python27/Scripts
+
+Run "pip install beautifulsoup4"
+
+###Debian based linux:
 
 Available as python-beautifulsoup4 package in debian repositories
 Just run "sudo apt-get install python-beautifulsoup4" in terminal
