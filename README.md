@@ -42,7 +42,8 @@ Run "pip install beautifulsoup4"
 ###Debian based linux:
 
 Available as python-beautifulsoup4 package in debian repositories
-Just run "sudo apt-get install python-beautifulsoup4" in terminal
+
+Run "sudo apt-get install python-beautifulsoup4" in terminal
 
 #How to install youtube-dl:
 
