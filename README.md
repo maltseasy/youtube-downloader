@@ -1,4 +1,5 @@
-# youtube-downloader
+# Youtube Downloader
+![alt tag](http://root32.comlu.com/images/youdownload.jpg)
 
 Version 1.2(Latest)
 
@@ -8,7 +9,7 @@ This is my first project on github and I'm not thaaat experienced with python(an
 
 You can send suggestions to rootorg1@gmail.com
 
-#How to use:
+##How to use:
 
 1. Make sure you have all the requirements
 2. Download .py file(latest version)
@@ -17,19 +18,18 @@ You can send suggestions to rootorg1@gmail.com
 5. Press enter and after a short while, your video will be downloaded into the folder with the python file.
 6. The file type may be weird(mkd,webm) and W.M.P. cant play most of them so I recommend VLC media player.
 
-#Requirements:
-VLC media player(or any media player that can play any type of video file)
-Python 2.7 + Libraries
+##Requirements:
+1. VLC media player(or any media player that can play any type of video file) ![alt tag](http://getpcsoft.wikisend.com/img_howto/0/309/vlc%20media%20player.jpg)
+2. Python 2.7 + Libraries
 
 
-#Python Libs(extra installation required):
-
-youtube-dl
-beautiful soup 4
+##Python Libs(extra installation required):
+1. youtube-dl
+2. beautiful soup 4
 
 #How to install beautiful soup 4:
 
-Windows:
+###Windows:
 Open cmd.exe
 Go to C:/Python27/Scripts
 run "pip install beautifulsoup4"
