@@ -1,5 +1,5 @@
 # Youtube Downloader
-![alt tag](http://root32.comlu.com/images/youdownload.jpg)
+
 
 Version 1.2(Latest)
 
