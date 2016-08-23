@@ -1,6 +1,6 @@
 # Youtube Downloader
 
-![alt tag](http://root32.comlu.com/images/youdownload.jpg)
+![alt tag](http://root32.comlu.com/images/youdownload1.jpg)
 
 Version 1.2(Latest)
 
@@ -48,12 +48,14 @@ Run "sudo apt-get install python-beautifulsoup4" in terminal
 
 #How to install youtube-dl:
 
-Windows:
+###Windows:
 Open cmd.exe
+
 Go to C:/Python27/Scripts
+
 run "pip install --upgrade youtube-dl"
 
-Linux:
+####Linux:
 
 run "sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl"
 
@@ -62,5 +64,8 @@ run "sudo chmod a+rx /usr/local/bin/youtube-dl"
 #Changes planned:
 
 Priority 1:Options for first, second or third link.
+
 Priority 2:Impliment simple GUI
+
 Priority 3:Add option to download as selected formats
+
