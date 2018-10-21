@@ -1,8 +1,8 @@
 # Youtube Downloader
 
-![alt tag1](youdownload.png)
+![alt tag](http://root32.comlu.com/images/youdownload1.jpg)
 
-Version 1.3(Latest)
+Version 1.2(Latest)
 
 A easy to use python script that downloads youtube videos in whatever format they were uploaded in. Just type in what you want to search and it will download the first video link into the folder which the script is in.
 
